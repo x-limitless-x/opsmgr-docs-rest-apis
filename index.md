@@ -23,6 +23,9 @@ The new HTML5-based dashboards includes support for a Custom widget that execute
 > [!NOTE]
 > Operations Manager 2019 UR1 supports Cross-Site Request Forgery (CSRF) tokens to prevent CSRF attacks. If you are using Operations Manager 2019 UR1, you must initialize the CSRF token. HTML scripts do not work if the CSRF tokens are not initialized.
 
+> [!Quick Start]
+> https://social.technet.microsoft.com/wiki/contents/articles/53978.scom-quick-start-rest-api.aspx
+
 ## Initialize the CSRF token
 
 Required action, applicable for Operations Manager 2019 UR1.
